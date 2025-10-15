@@ -39,9 +39,8 @@ Cada um desses projetos reflete meu esforço em aplicar o que ensino em sala de 
 
 ## 📫 Como me encontrar
 
-- LinkedIn: [Alex Sander](https://www.linkedin.com/in/alex-sander-resende)
-- Twitter: [@alexsanderdev](https://twitter.com/alexsanderdev)
-- E-mail: [alexsander@dominio.com](mailto:alexsander@dominio.com)
+- LinkedIn: [Alex Sander Resende de Deus](https://www.linkedin.com/in/alexsanderresende)
+- E-mail: [profalex.deus@fiap.com.br](mailto:profalex.deus@fiap.com.br)
 
 ## 💬 Vamos conversar!
 
