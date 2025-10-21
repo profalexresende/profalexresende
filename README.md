@@ -36,11 +36,3 @@ Como educador, estou sempre em busca de novas metodologias e ferramentas para en
 ## 💬 Vamos conversar!
 
 Estou sempre aberto para aprender e trocar ideias com outros profissionais de tecnologia e educação. Sinta-se à vontade para me enviar uma mensagem ou abrir uma issue em um dos meus projetos!
-
-
----
-
-### Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=profalexresende&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=profalexresende&layout=compact&theme=radical)
